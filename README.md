@@ -4,6 +4,11 @@ I turned source code into images.
 
 Numeric Array Navigation as a Color Image — Byte Splitting Algorithm
 
+
+## How To Run
+
+1. Run the python file with the path to the file you want to generate an image of. Example "python .\image_byte.py C:\Users\M\Work_pojects\code_to_pic\Code-to-Image\image_byte.py "
+
 This algorithm takes a word, converts it into its UTF-8 byte representation, and transforms those bytes into two byte-sized values.
 
 The basic idea is:
